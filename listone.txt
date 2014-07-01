@@ -4,3 +4,8 @@ This is listone.txt
 2. Bang
 3. Chowchow
 4. Dang
+5. Elephant
+6. Flamingo
+7. Grizzly
+8. Hippopotamus
+9. Iguana
